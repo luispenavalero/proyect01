@@ -1,0 +1,11 @@
+/* nav */
+
+.nav__div {
+    height: 25vh;
+    width: 100%;
+    background-color: rgb(184, 184, 184);
+}
+
+.div__logo {
+    height: 100%;
+}
